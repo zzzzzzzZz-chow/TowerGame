@@ -6,7 +6,6 @@
 #include "Boat.h"
 
 int main(int argc, char* argv[]) {
-	
 	try {
 		Tower a;
 		a.setPosition({ 10000, 10000 });
