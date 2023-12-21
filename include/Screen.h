@@ -8,6 +8,7 @@
 #include <map>
 #include <iostream>
 #include <stdio.h>
+#include <vector>
 
 class Icon : public virtual Object, public virtual PointType {
 	using Type = Icon;

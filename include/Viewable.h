@@ -6,6 +6,7 @@
 #include <mutex>
 #include <map>
 #include <atomic>
+#include <functional>
 
 class Viewable : public virtual Object, public virtual PositionType {
 	using Type = Viewable;
